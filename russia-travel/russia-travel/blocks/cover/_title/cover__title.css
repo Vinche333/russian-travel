@@ -1,0 +1,70 @@
+.cover__title{
+  margin: 0;
+  margin-top: 245px;
+  margin-left: 312px;
+  width: 560px;
+  height: 152px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 76px;
+  text-align: center;
+  color: #FFFFFF;
+  z-index: 1;
+  object-fit: cover;
+}
+
+@media (min-width:1024px)and (max-width:1279px){
+  .cover__title{
+    margin: 0;
+    margin-top: 195px;
+    margin-left: 232px;
+    width: 560px;
+    height: 152px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    text-align: center;
+    color: #FFFFFF;
+    z-index: 1;
+  }
+}
+
+@media (min-width:768px)and (max-width:1023px){
+  .cover__title{
+    margin: 0;
+    margin-top: 115px;
+    margin-left: 104px;
+    width: 560px;
+    height: 152px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    text-align: center;
+    color: #FFFFFF;
+    z-index: 1;
+  }
+}
+
+@media (min-width:320px)and (max-width:767px){
+  .cover__title{
+    margin: 0;
+    margin-top: 33px;
+    margin-left: 16px;
+    width: 288px;
+    height: 70px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 35px;
+    text-align: center;
+    color: #FFFFFF;
+    z-index: 1;
+  }
+}

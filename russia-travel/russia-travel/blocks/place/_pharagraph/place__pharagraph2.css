@@ -1,0 +1,65 @@
+.place__pharagraph2{
+  margin: 0;
+  margin-bottom: 70px;
+  margin-left: 15px;
+  width: 484px;
+  grid-area: pharagraph2;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+  color: #FFFFFF;
+  height: 203px;
+}
+
+@media (min-width:1024px)and (max-width:1279px){
+  .place__pharagraph2{
+    margin: 0;
+    margin-bottom: 60px;
+    margin-left: 32px;
+    width: 456px;
+    grid-area: pharagraph2;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 163%;
+    color: #FFFFFF;
+    height: 232px;
+  }
+}
+
+@media (min-width:768px)and (max-width:1023px){
+  .place__pharagraph2{
+    margin: 0;
+    margin-bottom: 50px;
+    margin-left: 28px;
+    width: 352px;
+    grid-area: pharagraph2;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 163%;
+    color: #FFFFFF;
+    height: 234px;
+  }
+}
+
+@media (min-width:320px)and (max-width:767px){
+  .place__pharagraph2{
+    margin: 0;
+    margin-bottom: 20px;
+    margin-left: 16px;
+    width: 288px;
+    grid-area: pharagraph2;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 163%;
+    color: #FFFFFF;
+    height: 312px;
+  }
+}
