@@ -1,4 +1,4 @@
-.website__link{
+.place__link{
   margin: 0;
   padding: 0;
   margin-top: 12px;
@@ -14,12 +14,12 @@
   transition: opacity 1s linear;
 }
 
-.website__link:hover{
+.place__link:hover{
   opacity: 0.8;
 }
 
 @media (min-width:1024px)and (max-width:1279px){
-  .website__link{
+  .place__link{
     margin: 0;
     padding: 0;
     margin-top: 12px;
@@ -35,13 +35,13 @@
     transition: opacity 1s linear;
   }
 
-  .website__link:hover{
+  .place__link:hover{
     opacity: 0.8;
   }
 }
 
 @media (min-width:768px)and (max-width:1023px){
-  .website__link{
+  .place__link{
     margin: 0;
     padding: 0;
     margin-top: 12px;
@@ -57,13 +57,13 @@
     transition: opacity 1s linear;
   }
 
-  .website__link:hover{
+  .place__link:hover{
     opacity: 0.8;
   }
 }
 
 @media (min-width:320px)and (max-width:767px){
-  .website__link{
+  .place__link{
     margin: 0;
     padding: 0;
     margin-top: 12px;
@@ -79,7 +79,7 @@
     transition: opacity 1s linear;
   }
 
-  .website__link:hover{
+  .place__link:hover{
     opacity: 0.8;
   }
 }
