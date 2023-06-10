@@ -1,5 +1,5 @@
 .cover__background{
-  background: url(../../../images/cover/__background.jpg);
+  background: url(../../../images/__background.jpg);
   z-index: -1;
   position: absolute;
   margin: 0;
@@ -9,7 +9,7 @@
 
 @media (min-width:1024px)and (max-width:1279px){
   .cover__background{
-    background: url(../../../images/cover/__background.jpg);
+    background: url(../../../images/__background.jpg);
     z-index: -1;
     position: absolute;
     margin: 0;
@@ -20,7 +20,7 @@
 
 @media (min-width:768px)and (max-width:1023px){
   .cover__background{
-    background: url(../../../images/cover/__background.jpg);
+    background: url(../../../images/__background.jpg);
     position: absolute;
     margin: 0;
     width: 1184px;
@@ -31,7 +31,7 @@
 
 @media (min-width:320px)and (max-width:767px){
   .cover__background{
-    background: url(../../../images/cover/__background.jpg);
+    background: url(../../../images/__background.jpg);
     position: absolute;
     margin: 0;
     width: 320px;
