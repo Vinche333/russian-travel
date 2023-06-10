@@ -5,28 +5,7 @@
   margin: 0;
   width: 1184px;
   height: 740px;
-}
-
-@media (min-width:1024px)and (max-width:1279px){
-  .cover__background{
-    background: url(../../../images/__background.jpg);
-    z-index: -1;
-    position: absolute;
-    margin: 0;
-    width: 1184px;
-    height: 740px;
-  }
-}
-
-@media (min-width:768px)and (max-width:1023px){
-  .cover__background{
-    background: url(../../../images/__background.jpg);
-    position: absolute;
-    margin: 0;
-    width: 1184px;
-    height: 740px;
-    z-index: -1;
-  }
+  position: center;
 }
 
 @media (min-width:320px)and (max-width:767px){
@@ -36,6 +15,7 @@
     margin: 0;
     width: 320px;
     height: 200px;
+    position: center;
     z-index: -1;
   }
 }
