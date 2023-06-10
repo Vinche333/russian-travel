@@ -33,7 +33,7 @@
     font-weight: 900;
     font-size: 42px;
     line-height: 46px;
-    color: #FFFFFF;  
+    color: #FFFFFF;
     grid-area: title;
   }
 }
@@ -49,7 +49,7 @@
     font-weight: 900;
     font-size: 32px;
     line-height: 35px;
-    color: #FFFFFF;  
+    color: #FFFFFF;
     grid-area: title;
   }
 }
