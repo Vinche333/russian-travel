@@ -1,5 +1,4 @@
 .footer__links{
   display: flex;
-  flex-direction: row;
-  border: 1px red solid;
+  height: 18px;
 }

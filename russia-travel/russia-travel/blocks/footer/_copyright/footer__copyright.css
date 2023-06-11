@@ -1,5 +1,6 @@
 .footer__copyright{
   margin: 0;
+  border: 1px red solid;
   font-family: 'Inter','Arial','sans-serif';
   font-style: normal;
   font-weight: 400;
@@ -9,6 +10,7 @@
   color: #FFFFFF;
   max-width: 186px;
   min-height: 16px;
+  margin-top: 2px;
 }
 
 @media (min-width:320px)and (max-width:767px){
