@@ -1,8 +1,8 @@
 .header{
   margin: 0;
   position: relative;
-  width: 1184px;
-  height: 52px;
+  max-width: 1184px;
+  min-height: 52px;
   margin-top: 28px;
   margin-left: 48px;
 }
@@ -11,8 +11,8 @@
   .header{
     margin: 0;
     position: relative;
-    width: 928px;
-    height: 52px;
+    max-width: 928px;
+    min-height: 52px;
     margin-top: 28px;
     margin-left: 48px;
   }
@@ -22,8 +22,8 @@
   .header{
     margin: 0;
     position: relative;
-    width: 720px;
-    height: 52px;
+    max-width: 720px;
+    min-height: 52px;
     margin-top: 28px;
     margin-left: 24px;
   }
@@ -32,8 +32,8 @@
 @media (min-width:320px)and (max-width:767px){
   .header{
     position: relative;
-    width: 288px;
-    height: 42px;
+    max-width: 288px;
+    min-height: 42px;
     margin-top: 16px;
     margin-left: 16px;
   }
