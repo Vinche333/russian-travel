@@ -1,5 +1,7 @@
 .footer{
   position: relative;
+  display: flex;
+  justify-content: space-between;
   margin: 0;
   margin-top: 92px;
   margin-left: 48px;
@@ -13,6 +15,8 @@
 @media (min-width:1024px)and (max-width:1279px){
   .footer{
     position: relative;
+    display: flex;
+    justify-content: space-between;
     margin: 0;
     margin-top: 92px;
     margin-left: 48px;
@@ -26,6 +30,8 @@
 @media (min-width:768px)and (max-width:1023px){
   .footer{
     position: relative;
+    display: flex;
+    justify-content: space-between;
     margin: 0;
     margin-top: 92px;
     margin-left: 48px;
@@ -39,6 +45,8 @@
 @media (min-width:320px)and (max-width:767px){
   .footer{
     position: relative;
+    display: flex;
+    justify-content: space-between;
     margin: 0;
     margin-top: 64px;
     margin-left: 16px;
