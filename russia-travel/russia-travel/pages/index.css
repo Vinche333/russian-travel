@@ -8,6 +8,7 @@
 @import url(../blocks/header/_links/header__lang-link-en.css);
 @import url(../blocks/header/_links/header__lang-link-ru.css);
 @import url(../blocks/logo/logo_place_header.css);
+@import url(../blocks/header/_links/header__lang-links.css);
 
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/_title/lead__title.css);

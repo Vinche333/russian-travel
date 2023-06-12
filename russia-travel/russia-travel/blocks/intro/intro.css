@@ -1,8 +1,8 @@
 .intro{
   margin: 0;
   margin-top: 114px;
-  width: 690px;
-  height: 429px;
+  max-width: 690px;
+  min-height: 429px;
   margin-left: 148px;
 }
 
@@ -10,8 +10,8 @@
   .intro{
     margin: 0;
     margin-top: 92px;
-    width: 690px;
-    height: 429px;
+    max-width: 690px;
+    min-height: 429px;
     margin-left: 48px;
   }
 }
@@ -20,8 +20,8 @@
   .intro{
     margin: 0;
     margin-top: 88px;
-    width: 720px;
-    height: 429px;
+    max-width: 720px;
+    min-height: 429px;
     margin-left: 24px;
   }
 }
@@ -31,7 +31,7 @@
     margin: 0;
     margin-top: 64px;
     margin-left: 16px;
-    width: 288px;
-    height: 754px;
+    max-width: 288px;
+    min-height: 754px;
   }
 }
