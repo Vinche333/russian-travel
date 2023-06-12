@@ -1,7 +1,7 @@
 .place__title{
   margin: 0;
-  width: 460px;
-  font-family: 'Inter';
+  max-width: 460px;
+  font-family: 'Inter','Arial','sans-serif';
   font-style: normal;
   font-weight: 900;
   font-size: 72px;
@@ -13,8 +13,8 @@
 @media (min-width:1024px)and (max-width:1279px){
   .place__title{
     margin: 0;
-    width: 440px;
-    font-family: 'Inter';
+    max-width: 440px;
+    font-family: 'Inter','Arial','sans-serif';
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
@@ -26,9 +26,9 @@
 
 @media (min-width:768px)and (max-width:1023px){
   .place__title{
-    width: 340px;
-    height: 92px;
-    font-family: 'Inter';
+    max-width: 340px;
+    min-width: 92px;
+    font-family: 'Inter','Arial','sans-serif';
     font-style: normal;
     font-weight: 900;
     font-size: 42px;
@@ -42,9 +42,9 @@
   .place__title{
     margin: 0;
     margin-left:16px;
-    width: 288px;
-    height: 35px;
-    font-family: 'Inter';
+    max-width: 288px;
+    min-height: 35px;
+    font-family: 'Inter','Arial','sans-serif';
     font-style: normal;
     font-weight: 900;
     font-size: 32px;

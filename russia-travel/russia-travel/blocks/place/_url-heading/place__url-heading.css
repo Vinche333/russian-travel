@@ -1,50 +1,24 @@
 .place__url-heading{
+  text-transform: capitalize;
   margin: 0;
-  width: 456px;
-  height: 12px;
+  max-width: 456px;
+  min-height: 12px;
   color: #AAAAAA;
-  font-family: 'Inter';
+  font-family: 'Inter','Arial','sans-serif';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
   line-height: 12px;
 }
 
-@media (min-width:1024px)and (max-width:1279px){
-  .place__url-heading{
-    margin: 0;
-    width: 456px;
-    height: 12px;
-    color: #AAAAAA;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 12px;
-  }
-}
-
-@media (min-width:768px)and (max-width:1023px){
-  .place__url-heading{
-    margin: 0;
-    width: 352px;
-    height: 12px;
-    color: #AAAAAA;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 12px;
-  }
-}
-
 @media (min-width:320px)and (max-width:767px){
   .place__url-heading{
+    text-transform: capitalize;
     margin: 0;
-    width: 288px;
-    height: 12px;
+    max-width: 288px;
+    min-height: 12px;
     color: #AAAAAA;
-    font-family: 'Inter';
+    font-family: 'Inter','Arial','sans-serif';
     font-style: normal;
     font-weight: 400;
     font-size: 12px;

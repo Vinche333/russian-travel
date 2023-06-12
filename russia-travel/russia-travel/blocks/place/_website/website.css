@@ -1,28 +1,28 @@
 .place__website{
   margin: 0;
-  width: 456px;
-  height: 46px;
+  max-width: 456px;
+  min-height: 46px;
   grid-area: website;
   margin-top: 106px;
-  margin-left: 15px;
+  margin-left: 40px;
 }
 
 @media (min-width:1024px)and (max-width:1279px){
   .place__website{
     margin: 0;
-    width: 456px;
-    height: 46px;
+    max-width: 456px;
+    min-height: 46px;
     grid-area: website;
     margin-top: 106px;
-    margin-left: 15px;
+    margin-left: 32px;
   }
 }
 
 @media (min-width:768px)and (max-width:1023px){
   .place__website{
     margin: 0;
-    width: 352px;
-    height: 46px;
+    max-width: 352px;
+    min-height: 46px;
     grid-area: website;
     margin-top: 46px;
     margin-left: 28px;
@@ -32,8 +32,8 @@
 @media (min-width:320px)and (max-width:767px){
   .place__website{
     margin: 0;
-    width: 288px;
-    height: 46px;
+    max-width: 288px;
+    min-height: 46px;
     grid-area: website;
     margin-top: 32px;
     margin-left: 16px;

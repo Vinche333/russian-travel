@@ -2,9 +2,9 @@
   margin: 0;
   padding: 0;
   margin-top: 12px;
-  width: 456px;
-  height: 22px;
-  font-family: 'Inter';
+  max-width: 456px;
+  min-height: 22px;
+  font-family: 'Inter','Arial','sans-serif';
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -18,58 +18,14 @@
   opacity: 0.8;
 }
 
-@media (min-width:1024px)and (max-width:1279px){
-  .place__link{
-    margin: 0;
-    padding: 0;
-    margin-top: 12px;
-    width: 456px;
-    height: 22px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 22px;
-    text-decoration-line: underline;
-    color: #FFFFFF;
-    transition: opacity 1s linear;
-  }
-
-  .place__link:hover{
-    opacity: 0.8;
-  }
-}
-
-@media (min-width:768px)and (max-width:1023px){
-  .place__link{
-    margin: 0;
-    padding: 0;
-    margin-top: 12px;
-    width: 352px;
-    height: 22px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 22px;
-    text-decoration-line: underline;
-    color: #FFFFFF;
-    transition: opacity 1s linear;
-  }
-
-  .place__link:hover{
-    opacity: 0.8;
-  }
-}
-
 @media (min-width:320px)and (max-width:767px){
   .place__link{
     margin: 0;
     padding: 0;
     margin-top: 12px;
-    width: 288px;
-    height: 22px;
-    font-family: 'Inter';
+    max-width: 288px;
+    min-height: 22px;
+    font-family: 'Inter','Arial','sans-serif';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
