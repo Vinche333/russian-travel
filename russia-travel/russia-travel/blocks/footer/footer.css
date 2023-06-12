@@ -7,7 +7,6 @@
   margin-left: 48px;
   max-width: 1184px;
   min-height: 18px;
-  display: flex;
   flex-direction: row;
 
 }
@@ -22,7 +21,6 @@
     margin-left: 48px;
     max-width: 928px;
     min-height: 18px;
-    display: flex;
     flex-direction: row;
   }
 }
@@ -37,7 +35,6 @@
     margin-left: 48px;
     max-width: 720px;
     min-height: 18px;
-    display: flex;
     flex-direction: row;
   }
 }
@@ -52,7 +49,6 @@
     margin-left: 16px;
     max-width: 186px;
     min-height: 310px;
-    display: flex;
     flex-direction: column;
   }
 }
