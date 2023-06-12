@@ -5,7 +5,7 @@
   display: grid;
   grid-template-areas: 
   "title website"
-  "image pharagraphs"
+  "image pharagraphs";
 }
 
 @media (min-width:1024px)and (max-width:1279px){
@@ -16,7 +16,7 @@
     display: grid;
     grid-template-areas: 
     "title website"
-    "image pharagraphs"
+    "image pharagraphs";
   }
 }
 
@@ -28,7 +28,7 @@
     display: grid;
     grid-template-areas: 
     "title website"
-    "image pharagraphs"
+    "image pharagraphs";
   }
 }
 
