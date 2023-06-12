@@ -5,8 +5,7 @@
   display: grid;
   grid-template-areas: 
   "title website"
-  "image pharagraph1"
-  "image pharagraph2";
+  "image pharagraphs"
 }
 
 @media (min-width:1024px)and (max-width:1279px){

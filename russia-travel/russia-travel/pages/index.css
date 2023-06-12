@@ -31,6 +31,7 @@
 @import url(../blocks/place/_website/website.css);
 @import url(../blocks/place/_url-heading/place__url-heading.css);
 @import url(../blocks/place/_link/place__link.css);
+@import url(../blocks/place/_pharagraphs/place__pharagraphs.css);
 @import url(../blocks/place/_pharagraph/place__pharagraph1.css);
 @import url(../blocks/place/_pharagraph/place__pharagraph2.css);
 
