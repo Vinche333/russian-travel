@@ -1,4 +1,8 @@
 .header{
+  border: 1px solid red;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
   margin: 0;
   position: relative;
   max-width: 1184px;
@@ -11,6 +15,9 @@
   .header{
     margin: 0;
     position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
     max-width: 928px;
     min-height: 52px;
     margin-top: 28px;
@@ -22,6 +29,9 @@
   .header{
     margin: 0;
     position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
     max-width: 720px;
     min-height: 52px;
     margin-top: 28px;
@@ -32,6 +42,9 @@
 @media (min-width:320px)and (max-width:767px){
   .header{
     position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
     max-width: 288px;
     min-height: 42px;
     margin-top: 16px;
