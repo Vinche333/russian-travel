@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
-  width: 984px;
+  max-width: 984px;
   min-height: 1005px;
   margin-top: 136px;
   margin-left: 148px;
@@ -14,7 +14,7 @@
     margin-top: 48px;
     margin-left: 48px;
     width: 928px;
-    height: 962px;
+    min-height: 962px;
   }
 }
 
@@ -22,8 +22,8 @@
   .lead{
     margin: 0;
     margin-top: 48px;
-    width: 768px;
-    height: 862px;
+    max-width: 768px;
+    min-height: 862px;
   }
 }
 
@@ -31,7 +31,7 @@
   .lead{
     margin: 0;
     margin-top: 48px;
-    width: 320px;
-    height: 406px;
+    max-width: 320px;
+    min-height: 406px;
   }
 }
