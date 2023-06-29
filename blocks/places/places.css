@@ -5,41 +5,29 @@
   margin-top: 92px;
   margin-left: 148px;
   max-width: 984px;
-  min-height: 3620px;
 }
 
 @media (min-width:1024px)and (max-width:1279px){
   .places{
-    margin: 0;
-    display: grid;
-    gap: 80px;
-    margin-top: 92px;
     margin-left: 48px;
     max-width: 928px;
-    min-height: 3600px;
   }
 }
 
 @media (min-width:768px)and (max-width:1023px){
   .places{
-    margin: 0;
-    display: grid;
     gap: 73px;
     margin-top: 88px;
     margin-left: 24px;
     max-width: 720px;
-    min-height: 3270px;
   }
 }
 
 @media (min-width:320px)and (max-width:767px){
   .places{
-    margin: 0;
-    display: grid;
     gap: 32px;
     margin-top: 64px;
     margin-left: 24px;
     max-width: 320px;
-    min-height: 5338px;
   }
 }

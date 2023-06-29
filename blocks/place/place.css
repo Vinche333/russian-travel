@@ -1,43 +1,21 @@
 .place{
   margin: 0;
   max-width: 984px;
-  min-height: 660px;
   display: grid;
   grid-template-areas: 
   "title website"
   "image pharagraphs";
 }
 
-@media (min-width:1024px)and (max-width:1279px){
-  .place{
-    margin: 0;
-    max-width: 928px;
-    min-height: 640px;
-    display: grid;
-    grid-template-areas: 
-    "title website"
-    "image pharagraphs";
-  }
-}
-
 @media (min-width:768px)and (max-width:1023px){
   .place{
-    margin: 0;
     max-width: 720px;
-    min-height: 581px;
-    display: grid;
-    grid-template-areas: 
-    "title website"
-    "image pharagraphs";
   }
 }
 
 @media (min-width:320px)and (max-width:767px){
   .place{
-    margin: 0;
     max-width: 320px;
-    min-height: 1042px;
-    display: grid;
     grid-template-areas: 
     "title"
     "website"
