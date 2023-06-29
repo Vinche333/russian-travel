@@ -1,4 +1,4 @@
-.header__lang-link-en{
+.header__lang-link{
   max-width: 29px;
   min-height: 28px;
   font-family: 'Inter','Arial','sans-serif';
@@ -12,7 +12,7 @@
 }
 
 @media (min-width:320px)and (max-width:767px){
-  .header__lang-link-en{
+  .header__lang-link{
     max-width: 22px;
     min-height: 20px;
     font-family: 'Inter','Arial','sans-serif';
