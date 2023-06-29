@@ -2,36 +2,27 @@
   margin: 0;
   margin-top: 114px;
   max-width: 690px;
-  min-height: 429px;
   margin-left: 148px;
 }
 
 @media (min-width:1024px)and (max-width:1279px){
   .intro{
-    margin: 0;
     margin-top: 92px;
-    max-width: 690px;
-    min-height: 429px;
     margin-left: 48px;
   }
 }
 
 @media (min-width:768px)and (max-width:1023px){
   .intro{
-    margin: 0;
     margin-top: 88px;
-    max-width: 720px;
-    min-height: 429px;
     margin-left: 24px;
   }
 }
 
 @media (min-width:320px)and (max-width:767px){
   .intro{
-    margin: 0;
     margin-top: 64px;
     margin-left: 16px;
     max-width: 288px;
-    min-height: 754px;
   }
 }
