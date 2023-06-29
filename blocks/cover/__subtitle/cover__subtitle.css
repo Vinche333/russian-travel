@@ -10,6 +10,8 @@
   text-align: center;
   color: #FFFFFF;
   z-index: 1;
+  text-decoration: none;
+  position: relative;
 }
 
 @media (min-width:320px)and (max-width:767px){
