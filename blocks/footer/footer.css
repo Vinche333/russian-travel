@@ -8,12 +8,6 @@
   flex-direction: row;
 }
 
-@media (min-width:768px)and (max-width:1023px){ 
-  .footer{ 
-    margin-top: 92px; 
-  } 
-}
-
 @media (min-width:320px)and (max-width:767px){
   .footer{
     margin-top: 64px;
