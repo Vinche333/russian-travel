@@ -3,13 +3,11 @@
   display: grid;
   gap: 80px;
   margin-top: 92px;
-  margin-left: 148px;
   max-width: 984px;
 }
 
 @media (min-width:1024px)and (max-width:1279px){
   .places{
-    margin-left: 48px;
     max-width: 928px;
   }
 }
@@ -18,7 +16,6 @@
   .places{
     gap: 73px;
     margin-top: 88px;
-    margin-left: 24px;
     max-width: 720px;
   }
 }
@@ -27,7 +24,6 @@
   .places{
     gap: 32px;
     margin-top: 64px;
-    margin-left: 24px;
     max-width: 320px;
   }
 }

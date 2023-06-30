@@ -4,13 +4,11 @@
   justify-content: center;
   flex-direction: column;
   margin-top: 136px;
-  margin-left: 148px;
 }
 
 @media (min-width:1024px)and (max-width:1279px){
   .lead{
     margin-top: 48px;
-    margin-left: 48px;
   }
 }
 
