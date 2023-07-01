@@ -5,21 +5,4 @@
   margin:0 auto;
 }
 
-@media (min-width:1024px)and (max-width:1279px){  
-  .page{   
-    max-width: 1024px;  
-  }  
-  }  
-    
-@media (min-width:768px)and (max-width:1023px){  
-    .page{  
-      max-width: 768px;  
-    }  
-  } 
-
-@media (min-width:320px)and (max-width:767px){  
-  .page{  
-    max-width: 320px; 
-  } 
-  }
 
