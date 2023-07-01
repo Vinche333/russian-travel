@@ -1,22 +1,26 @@
 .intro{
   margin: 0;
   margin-top: 114px;
+  margin-left: 108px;
 }
 
 @media (min-width:1024px)and (max-width:1279px){
   .intro{
     margin-top: 92px;
+    margin-left: 48px;
   }
 }
 
 @media (min-width:768px)and (max-width:1023px){
   .intro{
+    margin-left: 0;
     margin-top: 88px;
   }
 }
 
 @media (min-width:320px)and (max-width:767px){
   .intro{
+    margin-left: 0;
     margin-top: 64px;
     max-width: 288px;
   }
