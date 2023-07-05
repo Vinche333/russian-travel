@@ -1,9 +1,5 @@
 .cover__background{
   background: url(../../../images/__background.jpg);
-  z-index: -1;
-  position: absolute;
-  top: 0;
-  left: 0;
   margin: 0;
   width: 100%;
   min-height: 740px;
@@ -16,15 +12,16 @@
   justify-content: center;
   display: flex;
   align-items: center;
+  position: relative;
 }
 
 .cover__background::before {
+  background-color: #2a2c2f;
   position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: #2a2c2f;
   opacity: 0.3;
   transition: opacity 1s ease-in-out;
 }
@@ -44,11 +41,8 @@
 
 @media (min-width:320px)and (max-width:767px){
   .cover__background{
-    background: url(../../../images/__background.jpg);
-    position: absolute;
     margin: 0;
     width: 320px;
     min-height: 200px;
-    z-index: -1;
   }
 }
