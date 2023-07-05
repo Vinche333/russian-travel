@@ -14,7 +14,6 @@
 
 @media (min-width:320px)and (max-width:767px){
   .footer__copyright{
-    max-width: 186px;
     margin-top: 48px;
   }
 }
