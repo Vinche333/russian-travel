@@ -1,10 +1,9 @@
 .place__website{
   margin: 0;
   max-width: 456px;
-  min-height: 46px;
   grid-area: website;
-  margin-top: 106px;
   margin-left: 40px;
+  align-self: end;
 }
 
 @media (min-width:1024px)and (max-width:1279px){
@@ -15,7 +14,6 @@
 
 @media (min-width:768px)and (max-width:1023px){
   .place__website{
-    margin-top: 46px;
     margin-left: 28px;
   }
 }
@@ -23,7 +21,6 @@
 @media (min-width:320px)and (max-width:767px){
   .place__website{
     max-width: 288px;
-    margin-top: 32px;
     margin-left: 16px;
   }
 }
