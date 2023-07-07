@@ -9,13 +9,7 @@
   color: #FFFFFF;
 }
 
-@media (min-width:768px)and (max-width:1023px){
-  .place__pharagraph{
-    font-size: 16px;
-  }
-}
-
-@media (min-width:320px)and (max-width:767px){
+@media (max-width:1023px){
   .place__pharagraph{
     font-size: 16px;
   }
