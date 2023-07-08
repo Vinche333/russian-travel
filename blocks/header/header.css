@@ -7,10 +7,9 @@
   margin-top: 28px;
 }
 
-@media (min-width:320px)and (max-width:767px){
+@media (max-width:767px){
   .header{
     max-width: 288px;
-    min-height: 42px;
     margin-top: 16px;
   }
 }
