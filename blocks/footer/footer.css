@@ -28,8 +28,6 @@
   .footer{
     max-width: 186px;
     margin-top: 64px;
-    margin-left: 16px;
-    margin-right: 164px;
     flex-direction: column;
     row-gap: 48px;
 }
