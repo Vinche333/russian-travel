@@ -11,13 +11,13 @@
   color: #FFFFFF;
 }
 
-@media (min-width:768px)and (max-width:1023px){  
+@media (max-width:1023px){  
     .lead__caption{  
       padding-left: 24px; 
     }  
   } 
 
-@media (min-width:320px)and (max-width:767px){  
+@media (max-width:767px){  
   .lead__caption{  
     padding-left: 16px;
   } 
