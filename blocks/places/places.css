@@ -2,20 +2,21 @@
   margin: 0;
   display: grid;
   gap: 80px;
-  margin-top: 92px;
+  margin-top: 90px;
   max-width: 984px;
 }
 
 @media (max-width:1279px){
   .places{
     max-width: 928px;
+    margin-top: 88px;
   }
 }
 
 @media (max-width:1023px){
   .places{
     gap: 73px;
-    margin-top: 88px;
+    margin-top: 86px;
     max-width: 720px;
   }
 }
