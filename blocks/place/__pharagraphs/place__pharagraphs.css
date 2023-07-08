@@ -8,13 +8,13 @@
   gap: 1em;
 }
 
-@media (min-width:768px)and (max-width:1023px){
+@media (max-width:1023px){
   .place__pharagraphs{
     margin-left: 28px;
   }
 }
 
-@media (min-width:320px)and (max-width:767px){
+@media (max-width:767px){
   .place__pharagraphs{
     margin-top: 32px;
     margin-left: 16px;
