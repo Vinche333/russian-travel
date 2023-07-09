@@ -1,11 +1,11 @@
 .intro{
-  margin: 90px 0 0 100px;
+  margin: 90px 0 0 148px;
   max-width: 690px;
 }
 
 @media (max-width:1279px){
   .intro{
-    margin-left: 48px;
+    margin-left: calc(48px + (52 + 52 * .7) * (100vw - 1024px) / 1279);
   }
 }
 
