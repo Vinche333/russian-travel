@@ -1,22 +1,13 @@
-.place__pharagraphs{
-  margin: 0;
-  margin-left: 40px;
-  margin-top: 48px;
-  grid-area: pharagraphs;
+.place__pharagraphs {
   display: flex;
   flex-direction: column;
-  gap: 1em;
+  max-width: 484px;
 }
 
-@media (max-width:1023px){
-  .place__pharagraphs{
-    margin-left: 28px;
-  }
-}
-
-@media (max-width:767px){
-  .place__pharagraphs{
-    margin-top: 32px;
-    margin-left: 16px;
+@media (max-width: 767px) {
+  .place__pharagraphs {
+    max-width: 288px;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }
