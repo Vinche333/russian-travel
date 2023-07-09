@@ -8,6 +8,7 @@
   grid-row: 1;
   align-self: end;
   transition: opacity 0.3s linear;
+  font-family: 'Inter','Arial',sans-serif;
 }
 
 .place__link:hover {

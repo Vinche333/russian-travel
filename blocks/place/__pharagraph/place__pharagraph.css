@@ -6,6 +6,7 @@
   grid-column: 2;
   grid-row: 2;
   color: #FFFFFF;
+  font-family: 'Inter','Arial',sans-serif;
 }
 
 .place__pharagraph:last-child {
