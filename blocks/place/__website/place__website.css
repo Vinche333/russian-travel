@@ -1,4 +1,5 @@
 .place__website {
+  margin: 0;
   align-self: end;
   justify-self: start;
   grid-row: 1;
@@ -8,6 +9,9 @@
 
 @media (max-width: 767px) {
   .place__website {
-    display: none;
+    padding: 0;
+    padding-top: 0;
+    padding-bottom: 32px;
+    align-self: start;
   }
 }
