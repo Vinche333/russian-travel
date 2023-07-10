@@ -1,13 +1,12 @@
 .place__link {
   margin: 0;
   padding-top: 12px;
-  color: inherit;
   font-size: 18px;
   line-height: calc(22 / 18 * 100%);
   align-self: end;
   transition: opacity .3s ease;
   font-family: 'Inter','Arial',sans-serif;
-  color: #FFFFFF
+  color: #FFFFFF;
 }
 
 .place__link:hover {
