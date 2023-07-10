@@ -3,6 +3,7 @@
   justify-self: start;
   grid-row: 1;
   grid-column: 2;
+  font-family: 'Inter','Arial',sans-serif;
 }
 
 @media (max-width: 767px) {

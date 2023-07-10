@@ -3,9 +3,9 @@
   font-style:  normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 1.2;
+  line-height: 22px;
   transition: opacity .2s linear;
-  opacity: 1;
+  font-family: 'Inter','Arial',sans-serif;
 }
 
 .place__link:hover {
