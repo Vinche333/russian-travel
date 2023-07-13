@@ -1,15 +1,19 @@
 .lead{
-  margin: 56px 148px 0;
+  margin: 0;
+  margin-left: 100px;
+  margin-top: 56px;
   display: flex;
   align-items: center;
   flex-direction: column;
   max-width: 984px;
+  width: 100%;
 }
 
 @media (max-width: 1279px) {
   .lead {
     margin-top: 48px;
     max-width: 928px;
+    margin-left:calc(48px + (52 + 52 * .7) * (100vw - 1024px) / 1279);
   }
 }
 
