@@ -1,8 +1,8 @@
 .page{
-  position: relative;
-  max-width: 1184px;
+  margin: 0 auto;
+  position: relative; 
+  max-width: 1184px; 
   background: #2A2C2F;
-  margin:0 auto;
 }
 
 @media (max-width:1279px){  
