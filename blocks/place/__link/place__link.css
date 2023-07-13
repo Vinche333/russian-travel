@@ -1,6 +1,5 @@
 .place__link {
   margin: 0;
-  padding-top: 12px;
   font-size: 18px;
   line-height: calc(22 / 18 * 100%);
   align-self: end;
